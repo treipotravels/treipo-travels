@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://treipo-travels.github.io/sitemap.xml
