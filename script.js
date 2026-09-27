@@ -2,7 +2,7 @@
   Treipo Travels website configuration.
   IMPORTANT: Replace the placeholder phone number below before publishing.
 */
-const TREIPO_PHONE = "91XXXXXXXXXX";
+const TREIPO_PHONE = "919878711912";
 
 document.querySelectorAll("[data-whatsapp]").forEach(el => {
   const message = encodeURIComponent("Hi Treipo Travels, I want to enquire about Tempo Traveller / Urbania rental. Please share availability and pricing.");
