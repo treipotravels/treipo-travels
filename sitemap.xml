@@ -1,7 +1,2 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://treipo-travels.github.io/</loc></url>
-  <url><loc>https://treipo-travels.github.io/vehicles.html</loc></url>
-  <url><loc>https://treipo-travels.github.io/services.html</loc></url>
-  <url><loc>https://treipo-travels.github.io/contact.html</loc></url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://treipotravels.github.io/treipo-travels/</loc></url><url><loc>https://treipotravels.github.io/treipo-travels/vehicles.html</loc></url><url><loc>https://treipotravels.github.io/treipo-travels/services.html</loc></url><url><loc>https://treipotravels.github.io/treipo-travels/contact.html</loc></url></urlset>
